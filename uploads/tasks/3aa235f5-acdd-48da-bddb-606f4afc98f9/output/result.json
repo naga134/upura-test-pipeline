@@ -1,0 +1,74 @@
+{
+    "task_id": "3aa235f5-acdd-48da-bddb-606f4afc98f9",
+    "analysis_timestamp": "2026-03-12T15:21:00Z",
+    "summary": {
+        "bacteria_count": 6,
+        "surface_analysis_score": 6
+    },
+    "files": {
+        "mask_path": "C:\\Users\\vwork\\PycharmProjects\\upura_test_pipeline\\uploads\\tasks\\3aa235f5-acdd-48da-bddb-606f4afc98f9\\output\\mask.jpg",
+        "detected_overlay_path": "C:\\Users\\vwork\\PycharmProjects\\upura_test_pipeline\\uploads\\tasks\\3aa235f5-acdd-48da-bddb-606f4afc98f9\\output\\detected.jpg"
+    },
+    "colonies_details": [
+        {
+            "id": 0,
+            "path": "C:\\Users\\vwork\\PycharmProjects\\upura_test_pipeline\\uploads\\tasks\\3aa235f5-acdd-48da-bddb-606f4afc98f9\\output\\colonies\\colony_11.jpg",
+            "description": "Colony_11: area=7203.0 | color=(138, 144, 140)",
+            "ai_analysis": {
+                "predicted_type": "Pending",
+                "confidence": 0.0,
+                "raw_notes": "Ожидает обработки ИИ"
+            }
+        },
+        {
+            "id": 1,
+            "path": "C:\\Users\\vwork\\PycharmProjects\\upura_test_pipeline\\uploads\\tasks\\3aa235f5-acdd-48da-bddb-606f4afc98f9\\output\\colonies\\colony_14.jpg",
+            "description": "Colony_14: area=1850.0 | color=(146, 152, 98)",
+            "ai_analysis": {
+                "predicted_type": "Pending",
+                "confidence": 0.0,
+                "raw_notes": "Ожидает обработки ИИ"
+            }
+        },
+        {
+            "id": 2,
+            "path": "C:\\Users\\vwork\\PycharmProjects\\upura_test_pipeline\\uploads\\tasks\\3aa235f5-acdd-48da-bddb-606f4afc98f9\\output\\colonies\\colony_39.jpg",
+            "description": "Colony_39: area=2585.5 | color=(138, 147, 98)",
+            "ai_analysis": {
+                "predicted_type": "Pending",
+                "confidence": 0.0,
+                "raw_notes": "Ожидает обработки ИИ"
+            }
+        },
+        {
+            "id": 3,
+            "path": "C:\\Users\\vwork\\PycharmProjects\\upura_test_pipeline\\uploads\\tasks\\3aa235f5-acdd-48da-bddb-606f4afc98f9\\output\\colonies\\colony_46.jpg",
+            "description": "Colony_46: area=1633.5 | color=(139, 155, 84)",
+            "ai_analysis": {
+                "predicted_type": "Pending",
+                "confidence": 0.0,
+                "raw_notes": "Ожидает обработки ИИ"
+            }
+        },
+        {
+            "id": 4,
+            "path": "C:\\Users\\vwork\\PycharmProjects\\upura_test_pipeline\\uploads\\tasks\\3aa235f5-acdd-48da-bddb-606f4afc98f9\\output\\colonies\\colony_76.jpg",
+            "description": "Colony_76: area=13162.5 | color=(162, 151, 68)",
+            "ai_analysis": {
+                "predicted_type": "Pending",
+                "confidence": 0.0,
+                "raw_notes": "Ожидает обработки ИИ"
+            }
+        },
+        {
+            "id": 5,
+            "path": "C:\\Users\\vwork\\PycharmProjects\\upura_test_pipeline\\uploads\\tasks\\3aa235f5-acdd-48da-bddb-606f4afc98f9\\output\\colonies\\colony_89.jpg",
+            "description": "Colony_89: area=4956.5 | color=(146, 154, 96)",
+            "ai_analysis": {
+                "predicted_type": "Pending",
+                "confidence": 0.0,
+                "raw_notes": "Ожидает обработки ИИ"
+            }
+        }
+    ]
+}
